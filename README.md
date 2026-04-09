@@ -122,7 +122,7 @@ point = t_vec @ basis_matrix @ p
 2.控制点：白色
 3.控制点连线：浅灰色
 4.曲线边缘：未应用反走样，可能会有轻微锯齿
-![cg_lab3 1](https://github.com/user-attachments/assets/d34e6e06-4c15-4542-a67a-ea5f02dd278e)
+<img src="https://github.com/user-attachments/assets/d34e6e06-4c15-4542-a67a-ea5f02dd278e" width="400">
 
 ### 高级模式
 1.贝塞尔曲线：冰蓝色
