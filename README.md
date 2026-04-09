@@ -122,6 +122,7 @@ point = t_vec @ basis_matrix @ p
 2.控制点：白色
 3.控制点连线：浅灰色
 4.曲线边缘：未应用反走样，可能会有轻微锯齿
+
 <img src="https://github.com/user-attachments/assets/d34e6e06-4c15-4542-a67a-ea5f02dd278e" width="400">
 
 ### 高级模式
@@ -129,7 +130,9 @@ point = t_vec @ basis_matrix @ p
 2.B样条曲线：橙色曲线
 3.控制点：贝塞尔模式为白色，B样条模式为奶油色
 4.曲线边缘：应用反走样，边缘平滑无锯齿
-![cg_lab3 2](https://github.com/user-attachments/assets/8a804cd1-a6f8-4702-bd47-22fbfd5630d3)
+
+<img src="https://github.com/user-attachments/assets/9ffe6a73-b54c-44c8-9bfa-1a800f889cb4" width="400">
+
 
 ## 🔧 依赖项
 
